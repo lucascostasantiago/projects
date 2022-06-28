@@ -23,7 +23,7 @@ namespace Projects.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Functionality()
         {
             return View();
         }
